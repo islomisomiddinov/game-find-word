@@ -49,7 +49,11 @@ def play():
             print("Bunday harf so'zimizda yo'q.")
         user_letters += letter
     print(f"Tabriklayman. {word} so'zini {len(user_letters)} ta urinishda topdiz!")
+
+
+
+
     
-    
-    
-    
+
+
+
